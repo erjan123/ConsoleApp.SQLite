@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp.SQLite": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Githup\\ConsoleApp.SQLite"
+    }
+  }
+}
